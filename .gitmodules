@@ -1,0 +1,3 @@
+[submodule "ubergraph"]
+	path = ubergraph
+	url = https://github.com/INCATools/ubergraph.git
